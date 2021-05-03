@@ -1,0 +1,29 @@
+body {
+  background-color: #fff;
+  color: #000;
+  font-weight: bold;
+  font-size: 16px;
+  line-height: 26px;
+
+}
+
+.header a {
+  text-decoration: none;
+  display: center;
+}
+.header ul {
+  list-style-type: none;
+  display: flex;
+}
+
+.section {
+  display: flex;
+}
+
+.main {
+  display: ;
+}
+
+.aside {
+  display: ;
+}
